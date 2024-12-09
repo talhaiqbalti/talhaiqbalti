@@ -12,7 +12,7 @@
 
 <!--- snake -->
  <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div> 
 
@@ -26,15 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **AWS, React, Next.Js, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **Web 3.0 and Blockchain.**
-
-- ☁️ I've keen interest in AI and ML. So,I'm learning **NLP**
+- 🌱 I’m currently learning **Web 3.0 and AI Agents.**
 
 - 📝 I regularly write articles on [Dev.to](https://dev.to/talhaiqbal)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB, nextJS**
 
 - 📫 Feel free to reach me out **talha@talenteddevs.com**
 
